@@ -1,0 +1,13 @@
+form{
+    border: 1px solid lightblue;
+    padding: 30px;
+}
+.reg input{
+    border: none;
+    border-bottom: 1px solid lightgrey;
+}
+.reg{
+    width: 30%;
+    text-align: center;
+    margin: 20px auto;
+}

@@ -1,0 +1,20 @@
+.main-div{
+    width: 30%;
+    margin: 20px auto;
+    border: 1px solid lightblue;
+    text-align: center;
+    padding: 100px;
+    border-radius: 5px;
+}
+.button-div{
+    border: 1px solid lightgrey;
+    padding: 5px 7px;
+    border-radius: 35px;
+    cursor: pointer;
+}
+.button-div img{
+    height: 20px;
+}
+.button-div:hover{
+    border: 1px solid lightskyblue;
+}

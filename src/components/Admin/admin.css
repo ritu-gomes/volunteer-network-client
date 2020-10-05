@@ -1,0 +1,12 @@
+.admin{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+.add button{
+    position: fixed;
+    padding: 5px 30px;
+}
+.add button img{
+    width: 15px;
+}

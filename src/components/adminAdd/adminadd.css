@@ -1,0 +1,10 @@
+.all{
+    text-align: center;
+}
+.add-event{
+    width: 100%;
+    margin: 20px auto;
+}
+.add-event input{
+    margin: 5px;
+}

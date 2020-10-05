@@ -1,0 +1,10 @@
+.card{
+    background: #3F90FC;
+    color: rgb(19, 17, 17);
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    width: 18rem;
+}
