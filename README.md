@@ -1,5 +1,5 @@
 # Volunteer-Network
-A website where users can make a list of their desired vlunteer activities. Explore different types of activities, add and delete from their list. Admin has the access to add new activities.
+A website where users can make a list of their desired volunteer activities. Explore different types of activities, add and delete from their list. Admin has the access to add new activities.
 # Technologies Used:
 React.js, Javascript, Bootstrap, React-Router, Firebase Authentication
 # Installation Guide
